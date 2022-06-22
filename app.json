@@ -1,0 +1,7 @@
+{
+	"name": "bot-md-bug",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/ekazor/bot-bug-md",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+}
